@@ -1,7 +1,7 @@
 # AnyTrans – iOS Transfer Manager
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/52326/l/anytrans-logo.png?v=1663833343" width="200" alt="AnyTrans icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/9d/cb/229dcbdf-82b9-9ba9-8248-0fa1aafb9440/Placeholder.mill/200x200bb-75.webp" width="200" alt="AnyTrans icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/345563/m/anytrans-screenshot.png?v=1663833364" alt="AnyTrans screenshot"/>
+  <img src="https://imag.malavida.com/mvimgbig/download-fs/anytrans-16782-1.jpg" alt="AnyTrans screenshot"/>
 </p>
 
 ---
